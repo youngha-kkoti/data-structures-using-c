@@ -49,6 +49,7 @@
 - **Validity**: Each instruction must be an executable operation.
 ### ADT
 ADT, or Abstract Data Type, is a theoretical concept in computer science and data structures that defines a data type purely by its behavior (operations) rather than by its implementation. It focuses on what operations can be performed on the data, without specifying how they are implemented.
+
 An ADT consists of:
 1. **Data**: The values or elements the ADT can hold.
 2. **Operations**: The operations that can be performed on the data (e.g., insertion, deletion, retrieval).
