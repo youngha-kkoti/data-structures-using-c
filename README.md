@@ -41,7 +41,7 @@
             - Undirected Graph
             - Weighted Graph
         - Map
-### Conditions of an algorithm
+### Conditions of an Algorithm
 - **Input**: There must be 0 or more inputs.
 - **Output**: There must be 1 or more outputs.
 - **Explicitness**: The meaning of each instruction must be clear and unambiguous.
@@ -58,6 +58,9 @@ An ADT consists of:
 - An array is a collection of <index, element> pairs. Given an index, the corresponding element is accessed. Notably, all elements in an array are of the same data type.
 - When referencing the k-th item, its position (address) can be calculated directly, which is known as **direct access**. The time complexity for accessing an item is O(1).
 - In contrast, for a linked list, to reference the k-th item, you need to traverse from the first item and move k steps forward. This method is known as **sequential access**, and the time complexity for accessing an item is O(n).
+### Arrays as Function Parameters
+- When an array is passed as a parameter to a function and the function modifies the contents of the array, the original array is also modified.
+- Passing the name of an array actually passes the address of the first element of the array.
 ## 3. Stack
 ## 4. Queue
 ## 5. Pointers and Linked Lists
