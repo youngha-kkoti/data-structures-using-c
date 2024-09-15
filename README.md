@@ -16,6 +16,31 @@
 
 # Note
 ## 1. Data Structures and Algorithms
+### Classification of Data Structures
+- Primitive Data Structures
+    - Integer
+    - Floating Point
+    - Character
+    - String
+    - Pointer
+- Composite Data Structures
+    - Linear Structures
+        - Stack
+        - Queue
+        - Deque
+        - List
+    - Non-Linear Structures
+        - Tree
+            - General Tree
+            - Binary Tree
+                - Binary Search Tree
+                - AVL Tree
+        - Priority Queue
+        - Graph
+            - Directed Graph
+            - Undirected Graph
+            - Weighted Graph
+        - Map
 ## 2. Arrays and Structures
 ## 3. Stack
 ## 4. Queue
