@@ -57,7 +57,7 @@ An ADT consists of:
 ### Characteristics of Arrays
 - An array is a collection of <index, element> pairs. Given an index, the corresponding element is accessed. Notably, all elements in an array are of the same data type.
 - When referencing the k-th item, its position (address) can be calculated directly, which is known as **direct access**. The time complexity for accessing an item is O(1).
-- Note: In contrast, for a linked list, to reference the k-th item, you need to traverse from the first item and move k steps forward. This method is known as **sequential access**, and the time complexity for accessing an item is O(n).
+- In contrast, for a linked list, to reference the k-th item, you need to traverse from the first item and move k steps forward. This method is known as **sequential access**, and the time complexity for accessing an item is O(n).
 ## 3. Stack
 ## 4. Queue
 ## 5. Pointers and Linked Lists
