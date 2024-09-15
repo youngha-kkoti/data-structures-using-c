@@ -11,5 +11,5 @@ void main() {
   //
   finish = clock();
   duration = (double)(finish - start) / CLOCKS_PER_SEC;
-  printf("%fs\n", duration);
+  printf("%fs", duration);
 }
