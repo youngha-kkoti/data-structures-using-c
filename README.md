@@ -52,7 +52,7 @@ ADT, or Abstract Data Type, is a theoretical concept in computer science and dat
 
 An ADT consists of:
 1. **Data**: The values or elements the ADT can hold.
-2. **Operations**: The operations that can be performed on the data (e.g., insertion, deletion, retrieval).
+2. **Operations**: The operations that can be performed on the data (e.g. insertion, deletion, retrieval).
 ## 2. Arrays and Structures
 ### Characteristics of Arrays
 - An array is a collection of <index, element> pairs. Given an index, the corresponding element is accessed. Notably, all elements in an array are of the same data type.
