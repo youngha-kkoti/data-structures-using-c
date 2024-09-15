@@ -61,6 +61,7 @@ An ADT consists of:
 ### Arrays as Function Parameters
 - When an array is passed as a parameter to a function and the function modifies the contents of the array, the original array is also modified.
 - Passing the name of an array actually passes the address of the first element of the array.
+- When passing an array as a parameter, the length of the array should also be passed.
 ## 3. Stack
 ## 4. Queue
 ## 5. Pointers and Linked Lists
