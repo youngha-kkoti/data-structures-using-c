@@ -42,11 +42,11 @@
             - Weighted Graph
         - Map
 ### Conditions of an algorithm
-- Input: There must be 0 or more inputs.
-- Output: There must be 1 or more outputs.
-- Explicitness: The meaning of each instruction must be clear and unambiguous.
-- Finiteness: It must terminate after a finite number of steps.
-- Validity: Each instruction must be an executable operation.
+- **Input**: There must be 0 or more inputs.
+- **Output**: There must be 1 or more outputs.
+- **Explicitness**: The meaning of each instruction must be clear and unambiguous.
+- **Finiteness**: It must terminate after a finite number of steps.
+- **Validity**: Each instruction must be an executable operation.
 ## 2. Arrays and Structures
 ## 3. Stack
 ## 4. Queue
