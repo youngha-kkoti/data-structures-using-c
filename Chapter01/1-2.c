@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-void main() {
+int main() {
   clock_t start, finish;
   double duration;
   start = clock();

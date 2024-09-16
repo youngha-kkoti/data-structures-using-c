@@ -8,7 +8,7 @@ void copy_array(int a[], int b[], int len) {
 
 void copy_variable(int a, int b) { b = a; }
 
-void main() {
+int main() {
   int A[5] = {10, 20, 30}, B[5];
   int x = 2018, y = 0;
 

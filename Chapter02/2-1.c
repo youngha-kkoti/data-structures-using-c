@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
   int A[5] = {10, 20, 30}, B[5];
   int x = 2018, y;
 

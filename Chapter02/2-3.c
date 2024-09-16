@@ -9,7 +9,7 @@ void print_complex(Complex c) { printf("%4.1f + %4.1fi\n", c.real, c.imag); }
 
 void reset_complex(Complex c) { c.real = c.imag = 0.0; }
 
-void main() {
+int main() {
   Complex a = {1.0, 2.0};
   printf("Before reset: ");
   print_complex(a);
